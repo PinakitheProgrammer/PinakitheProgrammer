@@ -1,6 +1,6 @@
 ## Hi there Welcome to my Profile Myself Pinaki I Look Forward to working with you :)👋
 
-<!--
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pinaki-mishra-66a522172/) 
 
